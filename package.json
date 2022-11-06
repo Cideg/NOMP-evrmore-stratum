@@ -37,7 +37,7 @@
     "big-integer": "^1.6.48",
     "bitcoinjs-lib": "^5.2.0",
     "merkle-bitcoin": "^1.0.2",
-    "hasher-evrprogpow": "git+https://https://github.com/rvnminers-A-and-N/hasher-evrprogpow.git",
+    "hasher-evrprogpow": "git+https://github.com/rvnminers-A-and-N/hasher-evrprogpow.git",
     "promise": "^8.1.0"
   },
   "deprecated": false,
